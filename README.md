@@ -1,5 +1,5 @@
 # agave
 
-A Golla and A VEnugopal
+A Golla & A VEnugopal
 
 idk, it's just a collection of fun projects
