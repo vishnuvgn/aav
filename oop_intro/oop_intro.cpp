@@ -10,7 +10,7 @@ class Vehicle {
         std::string getVehicleInfo(void) {
             return brand + " " + model + " with " + std::to_string(wheelNum) + " wheels";
         }
-        
+        // this commit is a trial for different branches
 };
 
 
