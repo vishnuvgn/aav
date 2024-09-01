@@ -2,7 +2,7 @@
 #include <string>
 
 class Vehicle {
-    public:
+   public:
         int wheelNum;
         std::string brand;
         std::string model;
