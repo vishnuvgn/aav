@@ -12,6 +12,7 @@ class Vehicle {
         }
         // this commit is a trial for different branches
 };// newBranch run through
+//next trial with newBranch
 
 
 int main(void) {
