@@ -11,7 +11,7 @@ class Vehicle {
             return brand + " " + model + " with " + std::to_string(wheelNum) + " wheels";
         }
         // this commit is a trial for different branches
-};
+};// newBranch run through
 
 
 int main(void) {
