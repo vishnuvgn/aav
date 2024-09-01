@@ -1,5 +1,5 @@
 # agave
 
-**A** **G**olla & **A** **VE**nugopal
+**A** **G**oll**A** & V **VE**nugopal
 
 idk, it's just a collection of fun projects
